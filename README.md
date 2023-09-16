@@ -1,0 +1,2 @@
+# amplify-terraform
+AmplifyをTerraformで作る
